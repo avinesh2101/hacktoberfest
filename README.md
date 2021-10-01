@@ -49,6 +49,7 @@ git push origin branch-name
 
 ### NOTE
 ------
+## Star repo 
 * Make sure you have added the necessary comments as wrritten in demo files.
 * Make Sure you commit your changes in a new branch.
 * Make Sure you Give proper name to your files describing the addition.
