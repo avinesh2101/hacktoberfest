@@ -13,6 +13,7 @@
 https://hacktoberfest.digitalocean.com/</p>
 
 ### What can You contribute 🌻
+* Go through the demo file and take care of the comments that are mandatory to add
 * There are language Specific folders in the repository choose any you're comfortable with .
 * Inside the language folder there will be multiple topic folders like Data Structures, Algorithms, Problems.
 * Contribute any algorithm, data-structure implementation or your favourite problmes.
@@ -48,6 +49,7 @@ git push origin branch-name
 
 ### NOTE
 ------
+* Make sure you have added the necessary comments as wrritten in demo files.
 * Make Sure you commit your changes in a new branch.
 * Make Sure you Give proper name to your files describing the addition.
 * Also Make Sure you comment your code whereever necessary.
